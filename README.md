@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bright Green
 ====================================================================================================================================
 
-Fullstack Developer | web and blockchain
+Fullstack Developer | Web & Mobile Platforms
 --------------------------------------------
 
 Self-driven tech enthusiast and web developer/designer building beautiful digital experiences that simplify complex problems with 2+ years of continuous learning and development. We can create something amazing, today!
